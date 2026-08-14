@@ -1,76 +1,75 @@
 # 上游对照表
 
-从 suifei 的 forks 解析出的源仓库。
+从曾经 fork 过的项目解析出的源仓库。每条链接指向上游，不是 suifei 下的 fork。
 
-| Fork | 上游 | 说明 |
-| --- | --- | --- |
-| [orly](https://github.com/suifei/orly) | [nanmu42/orly](https://github.com/nanmu42/orly) | Generate your own O'RLY animal book cover to troll your colleagues |
-| [gpt4free](https://github.com/suifei/gpt4free) | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
-| [henduohao](https://github.com/suifei/henduohao) **私有** | — |  |
-| [bootout](https://github.com/suifei/bootout) | [dodgepudding/bootout](https://github.com/dodgepudding/bootout) | 基于bootstrap实现可视化布局的layoutit.com离线中文版 |
-| [aurora](https://github.com/suifei/aurora) | [frida/aurora](https://github.com/frida/aurora) | Proof-of-concept web app built on top of Frida |
-| [new-pac](https://github.com/suifei/new-pac) | [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) |  |
-| [claude-code](https://github.com/suifei/claude-code) **保留** | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Claude Code Snapshot for Research. All original source code is the property of Anthropic. |
-| [DdddOcrLib](https://github.com/suifei/DdddOcrLib) | [sml2h3/DdddOcrLib](https://github.com/sml2h3/DdddOcrLib) | DdddOcr的C++静态编译版Lib |
-| [JioNLP](https://github.com/suifei/JioNLP) | [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) | 全面简便的中文 NLP 工具包 |
-| [IOS_SSR_SS_V2RAY](https://github.com/suifei/IOS_SSR_SS_V2RAY) | [caovps/IOS_SSR_SS_V2RAY](https://github.com/caovps/IOS_SSR_SS_V2RAY) | Shadowrocket2.1.12 离线安装包 |
-| [free-programming-books](https://github.com/suifei/free-programming-books) | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Freely available programming books |
-| [jynew](https://github.com/suifei/jynew) | [jynew/jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
-| [libc](https://github.com/suifei/libc) | [goplus/libc](https://github.com/goplus/libc) | Porting all popular libc libraries from C to Go |
-| [ArrowLegend](https://github.com/suifei/ArrowLegend) | [Lee7goal/ArrowLegend](https://github.com/Lee7goal/ArrowLegend) | 弓箭传说 |
-| [LxgwWenKai](https://github.com/suifei/LxgwWenKai) | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 霞鹜文楷（开源中文字体） |
-| [r0chrome](https://github.com/suifei/r0chrome) | [CrackerCat/r0chrome](https://github.com/CrackerCat/r0chrome) |  |
-| [OpenSource-Ai-Glasses](https://github.com/suifei/OpenSource-Ai-Glasses) | [Iam5tillLearning/OpenSource-Ai-Glasses](https://github.com/Iam5tillLearning/OpenSource-Ai-Glasses) |  |
-| [bagbak](https://github.com/suifei/bagbak) **保留** | [ChiChou/bagbak](https://github.com/ChiChou/bagbak) | frida based iOS dumpdecrypted |
-| [mystrong](https://github.com/suifei/mystrong) | [guanyu7778/mystrong](https://github.com/guanyu7778/mystrong) |  |
-| [obsidian-ollama](https://github.com/suifei/obsidian-ollama) | [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) |  |
-| [Xray_onekey](https://github.com/suifei/Xray_onekey) | [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | Xray 一键安装脚本 |
-| [jd_seckill](https://github.com/suifei/jd_seckill) | [andyzys/jd_seckill](https://github.com/andyzys/jd_seckill) | 京东茅台抢购 |
-| [chatglm-6b-api](https://github.com/suifei/chatglm-6b-api) | [xingkaixin/chatglm-6b-api](https://github.com/xingkaixin/chatglm-6b-api) | chatglm-6b-api |
-| [annie](https://github.com/suifei/annie) | [iawia002/lux](https://github.com/iawia002/lux) | Fast, simple and clean video downloader |
-| [frida_go](https://github.com/suifei/frida_go) | [nullswan/frida_go](https://github.com/nullswan/frida_go) | frida golang binding |
-| [WebGLM](https://github.com/suifei/WebGLM) | [THUDM/WebGLM](https://github.com/THUDM/WebGLM) | Web-enhanced QA (KDD 2023) |
-| [wecom](https://github.com/suifei/wecom) | [reilf/wecom](https://github.com/reilf/wecom) | 企业微信 fork 自 LinkWeChat |
-| [ocr_api_server](https://github.com/suifei/ocr_api_server) | [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) | ddddocr 的最简 API / Docker |
-| [V2rayU](https://github.com/suifei/V2rayU) | [yanue/V2rayU](https://github.com/yanue/V2rayU) | macOS V2Ray 客户端 |
-| [FiddlerEverywhereMockScripts](https://github.com/suifei/FiddlerEverywhereMockScripts) **保留** | [p1s1lver/FiddlerEverywhereMockScripts](https://github.com/p1s1lver/FiddlerEverywhereMockScripts) |  |
-| [mirai](https://github.com/suifei/mirai) | [mamoe/mirai](https://github.com/mamoe/mirai) | QQ机器人 / 协议库 |
-| [miner-proxy](https://github.com/suifei/miner-proxy) | [perrornet/miner-proxy](https://github.com/perrornet/miner-proxy) | 矿机与矿池中转 |
-| [DocumentSearch](https://github.com/suifei/DocumentSearch) | [yuanzhoulvpi2017/DocumentSearch](https://github.com/yuanzhoulvpi2017/DocumentSearch) | sentence-transformers + ChatGLM 文档搜索 |
-| [langflow](https://github.com/suifei/langflow) | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | LangChain 可视化编排 UI |
-| [EggShell](https://github.com/suifei/EggShell) **保留** | [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) | iOS/macOS/Linux Remote Administration Tool |
-| [eptaora](https://github.com/suifei/eptaora) | [ukhov79/eptaora](https://github.com/ukhov79/eptaora) | ATtiny84 dual stepper clock driver |
-| [auto-phone-scheduler](https://github.com/suifei/auto-phone-scheduler) | [lxzagent/auto-phone-scheduler](https://github.com/lxzagent/auto-phone-scheduler) | 基于 Open-AutoGLM 的手机定时任务 |
-| [dm-ticket](https://github.com/suifei/dm-ticket) | [ff522/dm-ticket](https://github.com/ff522/dm-ticket) | 大麦网自动购票 |
-| [PbdViewer](https://github.com/suifei/PbdViewer) | [Hucxy/PbdViewer](https://github.com/Hucxy/PbdViewer) | PowerBuilder Decompiler |
-| [SuperDllHijack](https://github.com/suifei/SuperDllHijack) **保留** | [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) | 通用 DLL 劫持 |
-| [dynamic-analysis](https://github.com/suifei/dynamic-analysis) | [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) | 动态分析工具清单 |
-| [chatglm-openai-api](https://github.com/suifei/chatglm-openai-api) | [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) | ChatGLM 的 OpenAI 风格 API |
-| [RWKV-Runner](https://github.com/suifei/RWKV-Runner) | [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) | RWKV 一键启动 |
-| [marktext](https://github.com/suifei/marktext) | [marktext/marktext](https://github.com/marktext/marktext) | 跨平台 Markdown 编辑器 |
-| [gpt_academic](https://github.com/suifei/gpt_academic) | [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 论文阅读/润色向 LLM 界面 |
-| [V2Ray-Desktop](https://github.com/suifei/V2Ray-Desktop) | [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | 跨平台代理客户端 |
-| [PyBot_Scara](https://github.com/suifei/PyBot_Scara) | [somorastik/PyBot_Scara](https://github.com/somorastik/PyBot_Scara) | Arduino SCARA 机械臂 |
-| [autoglm-go](https://github.com/suifei/autoglm-go) | [ZoroSpace/autoglm-go](https://github.com/ZoroSpace/autoglm-go) | Open-AutoGLM 的 Go 重写 |
-| [fastllm](https://github.com/suifei/fastllm) | [ztxz16/fastllm](https://github.com/ztxz16/fastllm) | 纯 C++ 全平台 LLM 推理 |
-| [ColossalAI](https://github.com/suifei/ColossalAI) | [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | 大模型训练推理加速 |
-| [matiec](https://github.com/suifei/matiec) | [beremiz/matiec](https://github.com/beremiz/matiec) | IEC 61131-3 编译器 |
-| [idc_70_client](https://github.com/suifei/idc_70_client) **保留** | [android-crack/idc_70_client](https://github.com/android-crack/idc_70_client) | 疑似游戏客户端源码 |
-| [ios-bash-streaming](https://github.com/suifei/ios-bash-streaming) | [mobileboxlab/ios-bash-streaming](https://github.com/mobileboxlab/ios-bash-streaming) | iOS screen mirroring in bash |
-| [acore_doc](https://github.com/suifei/acore_doc) | [najoast/acore_doc](https://github.com/najoast/acore_doc) | AzerothCore 中文文档 |
-| [awesome-monogame](https://github.com/suifei/awesome-monogame) | [aloisdeniel/awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) | MonoGame 资源列表 |
-| [frida-snippets](https://github.com/suifei/frida-snippets) | [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) | Frida 示例片段 |
-| [Il2CppDumper](https://github.com/suifei/Il2CppDumper) | [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) | Unity il2cpp 分析 |
-| [vector-vein](https://github.com/suifei/vector-vein) | [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) | No-code AI workflow |
-| [jynew_art](https://github.com/suifei/jynew_art) | [jynew/jynew_art](https://github.com/jynew/jynew_art) | 金庸群侠传 3D 美术工程 |
-| [iOS](https://github.com/suifei/iOS) | [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) | iOS penetration testing tools list |
-| [holo_clock](https://github.com/suifei/holo_clock) | [ekaggrat/holo_clock](https://github.com/ekaggrat/holo_clock) | faceless clock |
-| [powerrebuilder](https://github.com/suifei/powerrebuilder) | [michaelprowacki/powerrebuilder](https://github.com/michaelprowacki/powerrebuilder) | PowerBuilder 迁到现代 Web |
-| [ChinaTextbook](https://github.com/suifei/ChinaTextbook) | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 人教版小学到大学数学 |
-| [Vicuna-LangChain](https://github.com/suifei/Vicuna-LangChain) | [HaxyMoly/Vicuna-LangChain](https://github.com/HaxyMoly/Vicuna-LangChain) | Vicuna + 本地知识库 |
-| [ddddocr](https://github.com/suifei/ddddocr) | [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) | 通用验证码 OCR |
-| [Grapefruit](https://github.com/suifei/Grapefruit) | [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) | iOS runtime instruments |
-| [xdm](https://github.com/suifei/xdm) | [subhra74/xdm](https://github.com/subhra74/xdm) | download accelerator |
-| [gox](https://github.com/suifei/gox) | [mitchellh/gox](https://github.com/mitchellh/gox) | Go 交叉编译 |
-| [chatglm.cpp](https://github.com/suifei/chatglm.cpp) | [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | ChatGLM C++ 实现 |
-| [rathena_npc_translate](https://github.com/suifei/rathena_npc_translate) | [najoast/rathena_npc_translate](https://github.com/najoast/rathena_npc_translate) | rAthena NPC 脚本汉化 |
+| 上游 | 说明 |
+| --- | --- |
+| [nanmu42/orly](https://github.com/nanmu42/orly) | :football: Generate your own O'RLY animal book cover to troll your colleagues |
+| [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | decentralising the Ai Industry, just some language model api's... |
+| [dodgepudding/bootout](https://github.com/dodgepudding/bootout) | 基于bootstrap实现可视化布局的layoutit.com离线中文版 |
+| [frida/aurora](https://github.com/frida/aurora) | Proof-of-concept web app built on top of Frida |
+| [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) |  |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Claude Code Snapshot for Research. All original source code is the property of Anthropic. |
+| [sml2h3/DdddOcrLib](https://github.com/sml2h3/DdddOcrLib) | DdddOcr的C++静态编译版Lib |
+| [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) | 全面简便的中文 NLP 工具包，做您的 NLP 任务的垫 jio 石 |
+| [caovps/IOS_SSR_SS_V2RAY](https://github.com/caovps/IOS_SSR_SS_V2RAY) | Shadowrocket2.1.12 离线安装包， 苹果手机IOS小火箭安装，请支持正版，谢谢！ |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books |
+| [jynew/jynew](https://github.com/jynew/jynew) | 金庸群侠传3D重制版 |
+| [goplus/libc](https://github.com/goplus/libc) | Porting all popular libc libraries from C to Go |
+| [Lee7goal/ArrowLegend](https://github.com/Lee7goal/ArrowLegend) | 弓箭传说 |
+| [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 |
+| [CrackerCat/r0chrome](https://github.com/CrackerCat/r0chrome) |  |
+| [Iam5tillLearning/OpenSource-Ai-Glasses](https://github.com/Iam5tillLearning/OpenSource-Ai-Glasses) |  |
+| [ChiChou/bagbak](https://github.com/ChiChou/bagbak) | Yet another frida based iOS dumpdecrypted, supports decrypting app extensions and no SSH required |
+| [guanyu7778/mystrong](https://github.com/guanyu7778/mystrong) |  |
+| [hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama) |  |
+| [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |
+| [andyzys/jd_seckill](https://github.com/andyzys/jd_seckill) | 京东茅台抢购，不支持其他商品！愿大家与黄牛站在同一个起跑线，公平的参与这场抢茅大赛。 |
+| [xingkaixin/chatglm-6b-api](https://github.com/xingkaixin/chatglm-6b-api) | chatglm-6b-api. |
+| [iawia002/lux](https://github.com/iawia002/lux) | 👾 Fast, simple and clean video downloader |
+| [nullswan/frida_go](https://github.com/nullswan/frida_go) | frida golang binding |
+| [THUDM/WebGLM](https://github.com/THUDM/WebGLM) | WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023) |
+| [reilf/wecom](https://github.com/reilf/wecom) | 企业微信 fork 自 LinkWeChat |
+| [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) | 使用ddddocr的最简api搭建项目，支持docker |
+| [yanue/V2rayU](https://github.com/yanue/V2rayU) | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 |
+| [p1s1lver/FiddlerEverywhereMockScripts](https://github.com/p1s1lver/FiddlerEverywhereMockScripts) |  |
+| [mamoe/mirai](https://github.com/mamoe/mirai) | 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android |
+| [perrornet/miner-proxy](https://github.com/perrornet/miner-proxy) | 加密传输矿工与矿池中的数据, 适用所有币种/ssl/tcp |
+| [yuanzhoulvpi2017/DocumentSearch](https://github.com/yuanzhoulvpi2017/DocumentSearch) | 基于sentence transformers和chatglm实现的文档搜索工具 |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows. |
+| [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) | iOS/macOS/Linux Remote Administration Tool |
+| [ukhov79/eptaora](https://github.com/ukhov79/eptaora) | code for attiny84 dual stepper driver for eptaora clock |
+| [lxzagent/auto-phone-scheduler](https://github.com/lxzagent/auto-phone-scheduler) | 基于 Open-AutoGLM 的手机自动化定时任务系统，让 AI 帮你定时完成手机上的重复性工作。 |
+| [ff522/dm-ticket](https://github.com/ff522/dm-ticket) | 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl |
+| [Hucxy/PbdViewer](https://github.com/Hucxy/PbdViewer) | PowerBuilder Decompiler |
+| [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) | SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了 |
+| [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) | A curated list of dynamic analysis tools for all programming languages, binaries, and more. |
+| [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) | Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model |
+| [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) | A RWKV management and startup tool, full automation, only 6MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use. |
+| [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. |
+| [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) | 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等 |
+| [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | 最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2. |
+| [somorastik/PyBot_Scara](https://github.com/somorastik/PyBot_Scara) | Refactoring code for cheap Arduino Zero Clone boards |
+| [ZoroSpace/autoglm-go](https://github.com/ZoroSpace/autoglm-go) | Open-AutoGLM 项目的 Go 语言重写版本 |
+| [ztxz16/fastllm](https://github.com/ztxz16/fastllm) | 纯c++的全平台llm加速库，chatglm-6B级模型单卡可达10000+token / s，支持moss, chatglm, baichuan模型，手机端流畅运行 |
+| [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) | Making large AI models cheaper, faster and more accessible |
+| [beremiz/matiec](https://github.com/beremiz/matiec) |  |
+| [android-crack/idc_70_client](https://github.com/android-crack/idc_70_client) | 感觉是王者荣耀的源码 |
+| [mobileboxlab/ios-bash-streaming](https://github.com/mobileboxlab/ios-bash-streaming) | iOS screen mirroring in five lines of bash |
+| [najoast/acore_doc](https://github.com/najoast/acore_doc) | AzerothCore 中文文档 |
+| [aloisdeniel/awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) | A collection of interesting libraries/tools for Monogame based game projects |
+| [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) | Hand-crafted Frida examples |
+| [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) | Unity il2cpp reverse engineer |
+| [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) | No-code AI workflow |
+| [jynew/jynew_art](https://github.com/jynew/jynew_art) | 金庸群侠传3D重制版 美术资源文件工程 |
+| [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) | Most usable tools for iOS penetration testing |
+| [ekaggrat/holo_clock](https://github.com/ekaggrat/holo_clock) | faceless clock |
+| [michaelprowacki/powerrebuilder](https://github.com/michaelprowacki/powerrebuilder) | Python-based reverse engineering toolkit that converts legacy PowerBuilder applications into modern web applications |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 人教版小学到大学数学 |
+| [HaxyMoly/Vicuna-LangChain](https://github.com/HaxyMoly/Vicuna-LangChain) | A simple LangChain-like implementation based on Sentence Embedding+local knowledge base, with Vicuna (FastChat) serving as the LLM. Supports both Chinese and English, and can process PDF, HTML, and DOCX formats of documents as knowledge base. |
+| [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) | 带带弟弟 通用验证码识别OCR pypi版 |
+| [ChiChou/grapefruit](https://github.com/ChiChou/grapefruit) | (WIP) Runtime Application Instruments for iOS. Previously Passionfruit |
+| [subhra74/xdm](https://github.com/subhra74/xdm) | Powerfull download accelerator and video downloader |
+| [mitchellh/gox](https://github.com/mitchellh/gox) | A dead simple, no frills Go cross compile tool |
+| [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | C++ implementation of ChatGLM-6B & ChatGLM2-6B |
+| [najoast/rathena_npc_translate](https://github.com/najoast/rathena_npc_translate) | rAthena npc 脚本汉化 / rAthena npc script translation |
