@@ -73,3 +73,4 @@
 | [mitchellh/gox](https://github.com/mitchellh/gox) | A dead simple, no frills Go cross compile tool |
 | [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) | C++ implementation of ChatGLM-6B & ChatGLM2-6B |
 | [najoast/rathena_npc_translate](https://github.com/najoast/rathena_npc_translate) | rAthena npc 脚本汉化 / rAthena npc script translation |
+| [WUT12/Actions-OpenWrt](https://github.com/WUT12/Actions-OpenWrt) | GitHub Actions 每天自动编译 OpenWrt 固件（B70 / x86 / 小米 AX 系列） |

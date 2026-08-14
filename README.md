@@ -71,6 +71,7 @@
 | [mamoe/mirai](https://github.com/mamoe/mirai) | QQ 机器人 / 协议库。做 QQ 机器人 | [`mamoe__mirai__dev.zip`](archives/mamoe__mirai__dev.zip) |
 | [reilf/wecom](https://github.com/reilf/wecom) | 企业微信（源自 LinkWeChat）。企微 SCRM 参考 | [`reilf__wecom__master.zip`](archives/reilf__wecom__master.zip) |
 | [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) | PAC / 代理相关。上游可能已失效 | 上游克隆失败 |
+| [WUT12/Actions-OpenWrt](https://github.com/WUT12/Actions-OpenWrt) | GitHub Actions 自动编译 OpenWrt 固件（B70/x86/小米 AX 系列） | 克隆失败 |
 | [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | Xray 一键安装。快速搭节点 | [`wulabing__Xray_onekey__main.zip`](archives/wulabing__Xray_onekey__main.zip) |
 | [yanue/V2rayU](https://github.com/yanue/V2rayU) | macOS V2Ray 客户端。Mac 上用 | [`yanue__V2rayU__rm.zip`](archives/yanue__V2rayU__rm.zip) |
 | [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | 跨平台代理客户端。桌面 GUI | [`Dr-Incognito__V2Ray-Desktop__master.zip`](archives/Dr-Incognito__V2Ray-Desktop__master.zip) |
