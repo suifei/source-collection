@@ -26,7 +26,8 @@
 | [Iam5tillLearning/OpenSource-Ai-Glasses](https://github.com/Iam5tillLearning/OpenSource-Ai-Glasses) | 开源 AI 眼镜。硬件 + 模型参考 | 过大，未收录 |
 | [lxzagent/auto-phone-scheduler](https://github.com/lxzagent/auto-phone-scheduler) | 基于 Open-AutoGLM 的手机定时任务。重复手机操作自动化 | [`lxzagent__auto-phone-scheduler__main.zip`](archives/lxzagent__auto-phone-scheduler__main.zip) |
 | [ZoroSpace/autoglm-go](https://github.com/ZoroSpace/autoglm-go) | Open-AutoGLM 的 Go 重写。同一套自动化的 Go 实现 | [`ZoroSpace__autoglm-go__master.zip`](archives/ZoroSpace__autoglm-go__master.zip) |
-| [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 聚合第三方模型接口。仅记录上游，无 zip | 未打包 |
+| [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 聚合第三方模型接口 | 未打包 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Claude Code 相关源码快照 | 未打包 |
 
 ## 中文 NLP / OCR
 
@@ -44,7 +45,7 @@
 | [marktext/marktext](https://github.com/marktext/marktext) | 跨平台 Markdown 编辑器。轻量所见即所得 | [`marktext__marktext__develop.zip`](archives/marktext__marktext__develop.zip) |
 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | 霞鹜文楷（开源中文字体）。免费可商用中文字体 | 过大，未收录 |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 免费编程书清单。找书入口 | [`EbookFoundation__free-programming-books__main.zip`](archives/EbookFoundation__free-programming-books__main.zip) |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 人教版数学教材整理。仅上游链接，无 zip | 未打包 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 人教版数学教材整理 | 未打包 |
 | [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) | 动态分析工具清单。按语言找工具 | [`analysis-tools-dev__dynamic-analysis__master.zip`](archives/analysis-tools-dev__dynamic-analysis__master.zip) |
 | [aloisdeniel/awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) | MonoGame 资源列表。做 MonoGame 时少搜一轮 | [`aloisdeniel__awesome-monogame__master.zip`](archives/aloisdeniel__awesome-monogame__master.zip) |
 | [najoast/acore_doc](https://github.com/najoast/acore_doc) | AzerothCore 中文文档。魔兽私服开发文档 | [`najoast__acore_doc__master.zip`](archives/najoast__acore_doc__master.zip) |
@@ -61,6 +62,7 @@
 | [ekaggrat/holo_clock](https://github.com/ekaggrat/holo_clock) | 无表面全息钟。硬件玩具 | [`ekaggrat__holo_clock__master.zip`](archives/ekaggrat__holo_clock__master.zip) |
 | [somorastik/PyBot_Scara](https://github.com/somorastik/PyBot_Scara) | 廉价 Arduino 的 SCARA 机械臂。桌面机械臂 | [`somorastik__PyBot_Scara__main.zip`](archives/somorastik__PyBot_Scara__main.zip) |
 | [beremiz/matiec](https://github.com/beremiz/matiec) | IEC 61131-3 编译器。PLC 语言工具链 | [`beremiz__matiec__default.zip`](archives/beremiz__matiec__default.zip) |
+| [android-crack/idc_70_client](https://github.com/android-crack/idc_70_client) | 游戏客户端相关源码 | 未打包 |
 
 ## 网络 / 下载 / 通讯
 
@@ -75,7 +77,7 @@
 | [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) | Xray 一键安装。快速搭节点 | [`wulabing__Xray_onekey__main.zip`](archives/wulabing__Xray_onekey__main.zip) |
 | [yanue/V2rayU](https://github.com/yanue/V2rayU) | macOS V2Ray 客户端。Mac 上用 | [`yanue__V2rayU__rm.zip`](archives/yanue__V2rayU__rm.zip) |
 | [Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop) | 跨平台代理客户端。桌面 GUI | [`Dr-Incognito__V2Ray-Desktop__master.zip`](archives/Dr-Incognito__V2Ray-Desktop__master.zip) |
-| [caovps/IOS_SSR_SS_V2RAY](https://github.com/caovps/IOS_SSR_SS_V2RAY) | iOS 小火箭离线包说明。仅记录上游 | 未打包 |
+| [caovps/IOS_SSR_SS_V2RAY](https://github.com/caovps/IOS_SSR_SS_V2RAY) | iOS 小火箭离线包说明 | 未打包 |
 | [perrornet/miner-proxy](https://github.com/perrornet/miner-proxy) | 矿机与矿池中转。挖矿链路 | [`perrornet__miner-proxy__master.zip`](archives/perrornet__miner-proxy__master.zip) |
 | [mobileboxlab/ios-bash-streaming](https://github.com/mobileboxlab/ios-bash-streaming) | 几行 bash 做 iOS 投屏。快速投屏 | [`mobileboxlab__ios-bash-streaming__master.zip`](archives/mobileboxlab__ios-bash-streaming__master.zip) |
 
@@ -97,6 +99,10 @@
 | [CrackerCat/r0chrome](https://github.com/CrackerCat/r0chrome) | Chrome 相关研究。浏览器研究 | [`CrackerCat__r0chrome__master.zip`](archives/CrackerCat__r0chrome__master.zip) |
 | [ansjdnakjdnajkd/iOS](https://github.com/ansjdnakjdnajkd/iOS) | iOS 渗透常用工具清单。工具索引 | [`ansjdnakjdnajkd__iOS__master.zip`](archives/ansjdnakjdnajkd__iOS__master.zip) |
 | [guanyu7778/mystrong](https://github.com/guanyu7778/mystrong) | （描述为空）。见上游仓库 | [`guanyu7778__mystrong__main.zip`](archives/guanyu7778__mystrong__main.zip) |
+| [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) | iOS/macOS/Linux 远程管理工具 | 未打包 |
+| [p1s1lver/FiddlerEverywhereMockScripts](https://github.com/p1s1lver/FiddlerEverywhereMockScripts) | Fiddler Everywhere 相关脚本 | 未打包 |
+| [ChiChou/bagbak](https://github.com/ChiChou/bagbak) | 基于 Frida 的 iOS 应用导出 | 未打包 |
+| [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) | Windows DLL 加载相关工具 | 未打包 |
 
 ## 其它
 
@@ -105,19 +111,8 @@
 | [andyzys/jd_seckill](https://github.com/andyzys/jd_seckill) | 京东茅台抢购脚本。历史项目 | [`andyzys__jd_seckill__master.zip`](archives/andyzys__jd_seckill__master.zip) |
 | [ff522/dm-ticket](https://github.com/ff522/dm-ticket) | 大麦网自动购票。历史项目 | [`ff522__dm-ticket__main.zip`](archives/ff522__dm-ticket__main.zip) |
 
-## 仅记录上游（未打包）
-
-| 上游 | 说明 | zip |
-| --- | --- | --- |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Claude Code 研究快照 | 未打包 |
-| [android-crack/idc_70_client](https://github.com/android-crack/idc_70_client) | 疑似游戏客户端源码 | 未打包 |
-| [lucasjacks0n/EggShell](https://github.com/lucasjacks0n/EggShell) | iOS/macOS/Linux 远程管理工具 | 未打包 |
-| [p1s1lver/FiddlerEverywhereMockScripts](https://github.com/p1s1lver/FiddlerEverywhereMockScripts) | Fiddler Everywhere 相关脚本 | 未打包 |
-| [ChiChou/bagbak](https://github.com/ChiChou/bagbak) | 基于 Frida 的 iOS dumpdecrypted | 未打包 |
-| [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) | 通用 DLL 劫持 | 未打包 |
-
 ## 归档约定
 
 1. 只克隆上游默认分支，`git clone --depth=1`。
 2. zip 文件名：`{owner}__{repo}__{branch}.zip`。
-3. 超过约 80MB、私有仓库、以及不适合公开再分发的项目不放 zip。
+3. 超过约 80MB 的不放 zip。
