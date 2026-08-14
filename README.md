@@ -1,6 +1,6 @@
 # source-collection
 
-曾经 fork 过的项目的**上游**收藏：每条链接都指向源仓库，不是我账号下的 fork。
+曾经 fork 或 star 过的项目的**上游**收藏：每条链接都指向源仓库，不是我账号下的 fork。
 
 适合归档的上游已做 `git clone --depth=1`（默认分支）并打成 zip，放在 [`archives/`](archives/)。
 
@@ -28,6 +28,13 @@
 | [ZoroSpace/autoglm-go](https://github.com/ZoroSpace/autoglm-go) | Open-AutoGLM 的 Go 重写。同一套自动化的 Go 实现 | [`ZoroSpace__autoglm-go__master.zip`](archives/ZoroSpace__autoglm-go__master.zip) |
 | [xtekky/gpt4free](https://github.com/xtekky/gpt4free) | 聚合第三方模型接口 | 未打包 |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | Claude Code 相关源码快照 | 未打包 |
+| [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) | 各种深度学习结构和技巧合集。对照实现常用模型 | 未打包 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 让 GPT 类模型自主干活。搭 Agent 的早期框架 | 未打包 |
+| [sandboxdream/AI-Vtuber](https://github.com/sandboxdream/AI-Vtuber) | ChatterBot 驱动的虚拟主播。B 站直播互动 | 未打包 |
+| [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) | 扩散模型歌声合成。唱歌 / 语音合成研究 | 未打包 |
+| [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) | 用 LLM 把代码迁到另一种语言或框架 | 未打包 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 让 AI 代理操作网页。浏览器自动化 | 未打包 |
+| [nfmcclure/tensorflow_cookbook](https://github.com/nfmcclure/tensorflow_cookbook) | TensorFlow 机器学习食谱代码 | 未打包 |
 
 ## 中文 NLP / OCR
 
@@ -37,6 +44,7 @@
 | [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) | 通用验证码 OCR。公开 OCR 库 | [`sml2h3__ddddocr__master.zip`](archives/sml2h3__ddddocr__master.zip) |
 | [sml2h3/ddddocr-fastapi](https://github.com/sml2h3/ddddocr-fastapi) | ddddocr 最简 API / Docker。把 OCR 变成服务 | [`sml2h3__ddddocr-fastapi__main.zip`](archives/sml2h3__ddddocr-fastapi__main.zip) |
 | [sml2h3/DdddOcrLib](https://github.com/sml2h3/DdddOcrLib) | ddddocr 的 C++ 静态库。非 Python 环境接入 | [`sml2h3__DdddOcrLib__master.zip`](archives/sml2h3__DdddOcrLib__master.zip) |
+| [diaomin/crnn-mxnet-chinese-text-recognition](https://github.com/diaomin/crnn-mxnet-chinese-text-recognition) | MxNet 上的 CRNN 中文识别 | 未打包 |
 
 ## 编辑器 / 字体 / 资料
 
@@ -49,6 +57,11 @@
 | [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) | 动态分析工具清单。按语言找工具 | [`analysis-tools-dev__dynamic-analysis__master.zip`](archives/analysis-tools-dev__dynamic-analysis__master.zip) |
 | [aloisdeniel/awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) | MonoGame 资源列表。做 MonoGame 时少搜一轮 | [`aloisdeniel__awesome-monogame__master.zip`](archives/aloisdeniel__awesome-monogame__master.zip) |
 | [najoast/acore_doc](https://github.com/najoast/acore_doc) | AzerothCore 中文文档。魔兽私服开发文档 | [`najoast__acore_doc__master.zip`](archives/najoast__acore_doc__master.zip) |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | Visual Studio Code 源码 | 未打包 |
+| [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) | 简洁的 Hexo 博客主题 | 未打包 |
+| [JokerQyou/maupassant-hugo](https://github.com/JokerQyou/maupassant-hugo) | Maupassant 主题的 Hugo 移植 | 未打包 |
+| [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 | 未打包 |
+| [SteveSandersonMS/WebWindow](https://github.com/SteveSandersonMS/WebWindow) | 用 .NET 打开原生窗口里的网页 UI | 未打包 |
 
 ## 游戏 / 嵌入式 / 工业
 
@@ -63,6 +76,18 @@
 | [somorastik/PyBot_Scara](https://github.com/somorastik/PyBot_Scara) | 廉价 Arduino 的 SCARA 机械臂。桌面机械臂 | [`somorastik__PyBot_Scara__main.zip`](archives/somorastik__PyBot_Scara__main.zip) |
 | [beremiz/matiec](https://github.com/beremiz/matiec) | IEC 61131-3 编译器。PLC 语言工具链 | [`beremiz__matiec__default.zip`](archives/beremiz__matiec__default.zip) |
 | [android-crack/idc_70_client](https://github.com/android-crack/idc_70_client) | 游戏客户端相关源码 | 未打包 |
+| [pret/pokered](https://github.com/pret/pokered) | 宝可梦红 / 蓝反汇编 | 未打包 |
+| [pret/pokeruby](https://github.com/pret/pokeruby) | 宝可梦红宝石 / 蓝宝石反编译 | 未打包 |
+| [timfel/dosbox-svn](https://github.com/timfel/dosbox-svn) | DOSBox SVN 仓库镜像 | 未打包 |
+| [github/game-off-2013](https://github.com/github/game-off-2013) | GitHub Game Off 2013 比赛仓库 | 未打包 |
+| [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) | 国产开源嵌入式实时操作系统 | 未打包 |
+| [Sermus/ESP8266_Adafruit_ILI9341](https://github.com/Sermus/ESP8266_Adafruit_ILI9341) | ESP8266 的 ILI9341 屏幕驱动 | 未打包 |
+| [PaulStoffregen/XPT2046_Touchscreen](https://github.com/PaulStoffregen/XPT2046_Touchscreen) | XPT2046 触摸屏 Arduino 库 | 未打包 |
+| [leeseungcheol/ODROID-GO](https://github.com/leeseungcheol/ODROID-GO) | ODROID-GO 掌机相关代码 | 未打包 |
+| [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) | ESP32 蓝牙键盘库 | 未打包 |
+| [ozkl/doomgeneric](https://github.com/ozkl/doomgeneric) | 方便移植的 Doom | 未打包 |
+| [yicong1352013/mir2-applem2](https://github.com/yicong1352013/mir2-applem2) | 热血传奇苹果引擎相关源码 | 未打包 |
+| [anael-seghezzi/CToy](https://github.com/anael-seghezzi/CToy) | 交互式 C 即时编码环境 | 未打包 |
 
 ## 网络 / 下载 / 通讯
 
@@ -80,6 +105,17 @@
 | [caovps/IOS_SSR_SS_V2RAY](https://github.com/caovps/IOS_SSR_SS_V2RAY) | iOS 小火箭离线包说明 | 未打包 |
 | [perrornet/miner-proxy](https://github.com/perrornet/miner-proxy) | 矿机与矿池中转。挖矿链路 | [`perrornet__miner-proxy__master.zip`](archives/perrornet__miner-proxy__master.zip) |
 | [mobileboxlab/ios-bash-streaming](https://github.com/mobileboxlab/ios-bash-streaming) | 几行 bash 做 iOS 投屏。快速投屏 | [`mobileboxlab__ios-bash-streaming__master.zip`](archives/mobileboxlab__ios-bash-streaming__master.zip) |
+| [Tencent/mars](https://github.com/Tencent/mars) | 微信团队的跨平台网络库 | 未打包 |
+| [riobard/go-shadowsocks2](https://github.com/riobard/go-shadowsocks2) | Go 写的 Shadowsocks（实验版） | 未打包 |
+| [erguotou520/bye](https://github.com/erguotou520/bye) | Electron SSR 客户端的上游 | 未打包 |
+| [cezanne/usbip-win](https://github.com/cezanne/usbip-win) | Windows 上的 USB/IP | 未打包 |
+| [jpillora/chisel](https://github.com/jpillora/chisel) | 走 HTTP 的 TCP/UDP 隧道 | 未打包 |
+| [c2FmZQ/tlsproxy](https://github.com/c2FmZQ/tlsproxy) | TLS 终结代理，可自动上证书 | 未打包 |
+| [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) | 浏览器代理切换插件 | 未打包 |
+| [KqSMea8/AirplayServer](https://github.com/KqSMea8/AirplayServer) | Android 上的 AirPlay 服务端 | 未打包 |
+| [we11cheng/WCShadowrocket](https://github.com/we11cheng/WCShadowrocket) | iOS Shadowrocket 重签参考 | 未打包 |
+| [yaya131/OpenWrt_R7800_Stable](https://github.com/yaya131/OpenWrt_R7800_Stable) | OpenWrt 固件（R7800 等机型） | 未打包 |
+| [linkease/istore](https://github.com/linkease/istore) | OpenWrt 软件中心 | 未打包 |
 
 ## 开发工具
 
@@ -103,6 +139,43 @@
 | [p1s1lver/FiddlerEverywhereMockScripts](https://github.com/p1s1lver/FiddlerEverywhereMockScripts) | Fiddler Everywhere 相关脚本 | 未打包 |
 | [ChiChou/bagbak](https://github.com/ChiChou/bagbak) | 基于 Frida 的 iOS 应用导出 | 未打包 |
 | [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) | Windows DLL 加载相关工具 | 未打包 |
+| [taokexia/Mac.WeChat](https://github.com/taokexia/Mac.WeChat) | 微信 iPad / Mac 协议研究 | 未打包 |
+| [REhints/HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer) | IDA Hex-Rays 插件，方便看反编译 | 未打包 |
+| [214175590/WeChatProtocolStudy](https://github.com/214175590/WeChatProtocolStudy) | 微信协议研究，PC 客户端 | 未打包 |
+| [flyingglass/MicroChat](https://github.com/flyingglass/MicroChat) | 用 Mars 库模拟微信通信 | 未打包 |
+| [save95/WeChatRE](https://github.com/save95/WeChatRE) | 微信 APK 逆向研究 | 未打包 |
+| [wechat-tests/PyMicroChat](https://github.com/wechat-tests/PyMicroChat) | 微信安卓协议的 Python API | 未打包 |
+| [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) | 微信机器人。公众号采集 | 未打包 |
+| [10p-freddo/fruitstrap](https://github.com/10p-freddo/fruitstrap) | 命令行给 iPhone 装应用、调试 | 未打包 |
+| [dweinstein/node-frida-contrib](https://github.com/dweinstein/node-frida-contrib) | Frida 的 Node 工具集 | 未打包 |
+| [lemon4ex/Reveal2Loader](https://github.com/lemon4ex/Reveal2Loader) | iOS 上加载 Reveal 的插件 | 未打包 |
+| [emonti/usbmux.py](https://github.com/emonti/usbmux.py) | usbmux / tcprelay 的 Python 封装 | 未打包 |
+| [gilhartman/iReSign](https://github.com/gilhartman/iReSign) | 给 ipa 重新签名 | 未打包 |
+| [qemu/qemu](https://github.com/qemu/qemu) | QEMU 官方镜像 | 未打包 |
+| [AeonLucid/AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) | 部分模拟 Android native 库 | 未打包 |
+| [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | 用 QEMU 模拟 iPhone 11 | 未打包 |
+| [deskflow/deskflow](https://github.com/deskflow/deskflow) | 多台电脑共用一套键鼠 | 未打包 |
+| [ge9/IddSampleDriver](https://github.com/ge9/IddSampleDriver) | Windows 虚拟显示器驱动 | 未打包 |
+| [roshkins/IddSampleDriver](https://github.com/roshkins/IddSampleDriver) | Windows 虚拟显示器驱动（更早上游） | 未打包 |
+| [keystone-engine/keystone](https://github.com/keystone-engine/keystone) | Keystone 汇编框架 | 未打包 |
+| [bnagy/gapstone](https://github.com/bnagy/gapstone) | Capstone 的 Go 绑定 | 未打包 |
+| [nodejs/string_decoder](https://github.com/nodejs/string_decoder) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [nodejs/readable-stream](https://github.com/nodejs/readable-stream) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [browserify/node-util](https://github.com/browserify/node-util) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [browserify/events](https://github.com/browserify/events) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [qfox/reserved-words](https://github.com/qfox/reserved-words) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [wessberg/crosspath](https://github.com/wessberg/crosspath) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [defunctzombie/node-process](https://github.com/defunctzombie/node-process) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [creationix/http-parser-js](https://github.com/creationix/http-parser-js) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [beatgammit/base64-js](https://github.com/beatgammit/base64-js) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [CoderPuppy/os-browserify](https://github.com/CoderPuppy/os-browserify) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [browserify/vm-browserify](https://github.com/browserify/vm-browserify) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [browserify/timers-browserify](https://github.com/browserify/timers-browserify) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [Gozala/querystring](https://github.com/Gozala/querystring) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [browserify/tty-browserify](https://github.com/browserify/tty-browserify) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [feross/buffer](https://github.com/feross/buffer) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
 
 ## 其它
 
@@ -110,6 +183,29 @@
 | --- | --- | --- |
 | [andyzys/jd_seckill](https://github.com/andyzys/jd_seckill) | 京东茅台抢购脚本。历史项目 | [`andyzys__jd_seckill__master.zip`](archives/andyzys__jd_seckill__master.zip) |
 | [ff522/dm-ticket](https://github.com/ff522/dm-ticket) | 大麦网自动购票。历史项目 | [`ff522__dm-ticket__main.zip`](archives/ff522__dm-ticket__main.zip) |
+| [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) | Python3 爬虫实战。淘宝、B 站、12306 等 | 未打包 |
+| [jpopelka/hplip](https://github.com/jpopelka/hplip) | HP 打印机驱动（hplip）的 git 跟踪 | 未打包 |
+| [srevinsaju/guiscrcpy](https://github.com/srevinsaju/guiscrcpy) | scrcpy 的图形界面 | 未打包 |
+| [Eliovp/amdmemorytweak](https://github.com/Eliovp/amdmemorytweak) | 实时读写 AMD 显存时序 | 未打包 |
+| [rbrito/usbmount](https://github.com/rbrito/usbmount) | Linux 自动挂载 U 盘的脚本 | 未打包 |
+| [st3fan/osx-10.9](https://github.com/st3fan/osx-10.9) | OS X 10.9 公开源码 | 未打包 |
+| [differentmatt/filbert](https://github.com/differentmatt/filbert) | 用 JavaScript 解析 Python | 未打包 |
+| [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) | 用 WebRTC 看本机 IP 的演示 | 未打包 |
+| [ulixee/platform](https://github.com/ulixee/platform) | Ulixee 开放数据平台 | 未打包 |
+| [lich4/personal_script](https://github.com/lich4/personal_script) | 个人脚本合集 | 未打包 |
+| [RPISEC/llvm-deobfuscator](https://github.com/RPISEC/llvm-deobfuscator) | LLVM 去混淆相关 | 未打包 |
+| [XLsn0w/Cydiapps](https://github.com/XLsn0w/Cydiapps) | Cydia / iOS 逆向资料 | 未打包 |
+| [AllenDang/w32](https://github.com/AllenDang/w32) | Windows API 的 Go 封装 | 未打包 |
+| [kaby76/Trash](https://github.com/kaby76/Trash) | 语法工具箱 | 未打包 |
+| [fonic/wcdatool](https://github.com/fonic/wcdatool) | Watcom 反汇编辅助工具 | 未打包 |
+| [iisquare/fs-project](https://github.com/iisquare/fs-project) | 低代码：表单、流程、报表、大屏 | 未打包 |
+| [StriveMario/jsvm](https://github.com/StriveMario/jsvm) | 给某音 JS 虚拟机写的编译器 | 未打包 |
+| [gtsigner/sensor-android](https://github.com/gtsigner/sensor-android) | Android 传感器数据模拟 | 未打包 |
+| [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) | 用多模态模型过 hCaptcha 验证 | 未打包 |
+| [xiaohang99/iOSFuckDenyAttach](https://github.com/xiaohang99/iOSFuckDenyAttach) | 关掉 iOS ptrace 反附加 | 未打包 |
+| [badadaf/apkpatcher](https://github.com/badadaf/apkpatcher) | 给 APK 自动打上 frida-gadget | 未打包 |
+| [bmax121/sktrace](https://github.com/bmax121/sktrace) | 内核 / 指令跟踪相关 | 未打包 |
+| [dm-vodopyanov/py_inspect](https://github.com/dm-vodopyanov/py_inspect) | Windows 控件查看器（Inspect 替代） | 未打包 |
 
 ## 归档约定
 
