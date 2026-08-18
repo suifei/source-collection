@@ -170,3 +170,4 @@
 | [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU |
 | [deskflow/deskflow](https://github.com/deskflow/deskflow) | Share a single keyboard and mouse between multiple computers. |
 | [fonic/wcdatool](https://github.com/fonic/wcdatool) | Watcom Disassembly Tool (wcdatool) - Tool to aid disassembling DOS applications created with the Watcom Toolchain |
+| [Ylarod/Florida](https://github.com/Ylarod/Florida) | 基础反检测 frida-server / Basic anti-detection frida-server |
