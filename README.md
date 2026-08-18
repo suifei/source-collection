@@ -176,6 +176,7 @@
 | [Gozala/querystring](https://github.com/Gozala/querystring) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
 | [browserify/tty-browserify](https://github.com/browserify/tty-browserify) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
 | [feross/buffer](https://github.com/feross/buffer) | Node / browserify 小库（Frida gumjs 依赖） | 未打包 |
+| [Ylarod/Florida](https://github.com/Ylarod/Florida) | 跟随 FRIDA 上游自动打补丁，构建 Android 反检测 frida-server | 未打包 |
 
 ## 其它
 
